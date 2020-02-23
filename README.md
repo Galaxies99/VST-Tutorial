@@ -4,7 +4,7 @@ This is an VST Tutorial written by <a href = "https://github.com/QinxiangCao" >Q
 
 The file `Tutorial.v` have a detailed introduction about <a href="https://github.com/PrincetonUniversity/VST">VST Tools</a>, which is a powerful tool made by Princeton University to help verify C program's correctness.
 
-The file `Exercise.v` has some simple exercises about VST. All exercises are finished.
+The file `Exercises.v` has some simple exercises about VST. All exercises are finished.
 
 - Q: How to build this project?
 - A: Following the steps below:
@@ -14,6 +14,6 @@ The file `Exercise.v` has some simple exercises about VST. All exercises are fin
     - `make depend`
     - `make all`
     - `make _CoqProject`
-  - Open `Tutorial.v` or `Exercise.v`, then you can successfully compile them in Coq.
+  - Open `Tutorial.v` or `Exercises.v`, then you can successfully compile them in Coq.
 
 Last Updated on Feb. 23th, 2020.
