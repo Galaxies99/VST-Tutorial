@@ -1,0 +1,1 @@
+-Q . EV -Q ../VST/msl VST.msl -Q ../VST/sepcomp VST.sepcomp -Q ../VST/veric VST.veric -Q ../VST/floyd VST.floyd -Q ../VST/progs VST.progs -R ../VST/compcert compcert
